@@ -1,3 +1,3 @@
 # uuid-generator
 
-test
+test brigade
